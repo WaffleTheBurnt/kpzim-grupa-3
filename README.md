@@ -1,7 +1,9 @@
 # Tko se boji mraka još?
 
 **Grupa:** 3 · **Članovi:** Leonora Brajković, Mirena Derado, Dorotea Trbić, Paško Vučak
+
 **Kolegij:** Kreativno programiranje za interaktivne medije
+
 **Akademska godina:** 2026/2027
 
 ![Snimka ili GIF rada](dokumentacija/pregled.gif)
