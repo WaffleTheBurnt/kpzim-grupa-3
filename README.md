@@ -33,10 +33,10 @@ Sve potrebne datoteke nalaze se u mapi `data/`. Rad ne treba internet.
 ## Podjela rada
 | Član/ica | Zaduženja |
 |---|---|
-| [ime] | [...] |
-| [ime] | [...] |
-| [ime] | [...] |
-| [ime] | [...] |
+| Leonora Brajković | [...] |
+| Mirena Derado | [...] |
+| Dorotea Trbić | [...] |
+| Paško Vučak | [...] |
 
 ## Izvori, licence i atribucija
 - **Fontovi:** [naziv], [licenca, npr. SIL OFL], [poveznica]
@@ -44,7 +44,7 @@ Sve potrebne datoteke nalaze se u mapi `data/`. Rad ne treba internet.
 - **Tuđi kod ili tutorijali:** [izvor], [što je preuzeto ili prilagođeno]
 
 ## Korištenje AI alata
-[Je li korišten AI i u koju svrhu (npr. objašnjenje greške, prijedlog strukture) te što je vaš samostalni rad. Ako AI nije korišten, napišite to.]
+AI nije korišten.
 
 ## Licenca ovog rada
 [npr. kod: MIT, vizuali: CC BY 4.0, ili „sva prava pridržana"]
